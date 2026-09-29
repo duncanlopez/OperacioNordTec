@@ -1,6 +1,6 @@
 <h1> tituloH1 </h1>
 <h2> tituloH2 </h2>
-# Operacio NordTec
+<h2> Operacio NordTec </h2>
 ## Objectiu
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjçant tecnologies actual d'administracio de sistemes
 ---
