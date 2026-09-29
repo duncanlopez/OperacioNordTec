@@ -1,7 +1,7 @@
 <h1> tituloH1 </h1>
 <h2> tituloH2 </h2>
 <h2> Operacio NordTec </h2>
-<b><i>Objectiu</b><i>
+<b><i>Objectiu</b></i>
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjçant tecnologies actual d'administracio de sistemes
 ---
 ## Estat del projecte
