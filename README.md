@@ -16,3 +16,4 @@ Pendent de dissenyar
 - Creació de l'estructura de targetes
 # Dia 2
 # Dia 3
+# Dia 4
