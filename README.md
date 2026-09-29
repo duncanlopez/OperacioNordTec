@@ -16,6 +16,11 @@ Pendent de dissenyar
 - Instalació de Git
 - Creació del repositori del projecte
 - Creació de l'estructura de targetes
+Para subir un nuevo cambio debemos hacer los siguientes comandos en orden
+git add documento.extension
+git commit -m "titulo del commit"
+git push -u origin main
+
 # Dia 2
 # Dia 3
 # Dia 4
