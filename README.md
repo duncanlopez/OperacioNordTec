@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+<h1> tituloH1 </h1>
+<h2> tituloH2 </h2>
 # Operacio NordTec
 ## Objectiu
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjçant tecnologies actual d'administracio de sistemes
@@ -18,6 +19,5 @@ Pendent de dissenyar
 # Dia 2
 # Dia 3
 # Dia 4
-=======
 # OperacioNordTec
->>>>>>> 476d738ae2a45a3449b0034e743b25a3ad93b937
+
