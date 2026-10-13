@@ -1,4 +1,4 @@
-# Títol Operació Nord Tec - [El teu Nom i Cognom], [Grup Classe]
+# Títol Operació Nord Tec - Duncan Lopez, ASIX1B
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjçant tecnologies actual d'administracio de sistemes
 ---
 * [Índex](#index)
@@ -12,7 +12,7 @@
 Iniciat
 En construccio
 ---
-## Arquitectura
+## Arquitectura de xarxa
 Pendent de dissenyar
 ## Diari del projecte
 # Dia 1
