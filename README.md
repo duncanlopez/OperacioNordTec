@@ -43,6 +43,8 @@ Decisions tècniques (què heu triat, per què, alternatives)
 Reflexions tècniques
 
 # Dia 3
+Configuració de entorn de red en isard, aplicar les IP a les máquines
+
 # Dia 4
 # OperacioNordTec
 
