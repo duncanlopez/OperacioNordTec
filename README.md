@@ -48,5 +48,6 @@ Configuradas las direcciones en el dispositivo de firewall, que será el interme
 
 # Dia 4
 Configuració de entorn de red en isard, aplicar les IP a les máquines
+Se intenta configurar las direcciones en las demás máquinas, sin embargo no se consigue que se comuniquen entre ellas, ni menos salir a internet, está bajo investigación
 # OperacioNordTec
 
