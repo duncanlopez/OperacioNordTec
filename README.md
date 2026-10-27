@@ -44,7 +44,9 @@ Reflexions tècniques
 
 # Dia 3
 Configuració de entorn de red en isard, aplicar les IP a les máquines
+Configuradas las direcciones en el dispositivo de firewall, que será el intermediario de comunicacion para las demás máquinas
 
 # Dia 4
+Configuració de entorn de red en isard, aplicar les IP a les máquines
 # OperacioNordTec
 
