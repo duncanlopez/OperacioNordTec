@@ -70,5 +70,9 @@ network:
       #LAN
       addresses:
         - 192.168.20.1/24
+
+# Dia 5
+He intentado usar todos los rangos posibles en la máquina Desk para que contacte con el firewall, sin éxito
+
 # OperacioNordTec
 
