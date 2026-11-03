@@ -50,5 +50,25 @@ Configuradas las direcciones en el dispositivo de firewall, que será el interme
 Configuració de entorn de red en isard, aplicar les IP a les máquines
 Se intenta configurar las direcciones en las demás máquinas, sin embargo no se consigue que se comuniquen entre ellas, ni menos salir a internet, está bajo investigación
 Tenemos el desktop, server y firewall en la red 192.168.20.X pero no logramos que comuniquen
+Adjunto la configuración en la que nos basamos
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    enp0s3:
+      dhcp4: true
+      #kali
+      addresses:
+        - 10.0.0.1/24
+    enp0s4:
+      dhcp4: true
+      #DMZ
+      addresses:
+        - 192.168.10.1/24
+    enp0s5:
+      dhcp4: true
+      #LAN
+      addresses:
+        - 192.168.20.1/24
 # OperacioNordTec
 
